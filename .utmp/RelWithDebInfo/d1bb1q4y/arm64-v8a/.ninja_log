@@ -1,0 +1,11 @@
+# ninja log v5
+132	9004	7160937643402618	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	11f0f174580e302
+356	9255	7160937646666565	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f121bcb3b275a6d5
+26	9622	7160937645886948	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	afde1b3dec3ea9d2
+1	11209	7160937663927098	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	12355465c6558ef9
+209	13123	7160937685397979	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f5cdc3890446c66
+9257	13420	7160937688746052	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a8912fc7a36d1ae5
+15	13520	7160937691540081	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1de6b0d25ecd5266
+9016	16444	7160937722057872	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	be91b2734a437964
+13421	16910	7160937713999273	E:/Bsc.IT/Pracs/UNITY/CA2_assignment/Block Dodge 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/d1bb1q4y/obj/arm64-v8a/libswappywrapper.so	9c38e1e62da62d52
+16446	17286	7160937728357636	E:/Bsc.IT/Pracs/UNITY/CA2_assignment/Block Dodge 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/d1bb1q4y/obj/arm64-v8a/libgame.so	ff43617bb05b5b97
